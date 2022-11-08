@@ -1,0 +1,244 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    width: 100%;
+    height: 80px;
+}
+.header-left{
+    width: 558px;
+    height: 90px;
+    background-color: #000;
+    color: #fff;
+    float: left;
+    padding-left: 116px;
+    
+}
+.header-right{
+    width: 50%;
+    height: 90px;
+    background-color: #000;
+    float: left;
+}
+.logo{
+    width:140px;
+    margin-top: 19px;
+cursor: pointer;
+
+}
+.m1{
+    width: 100%;
+    height: 534px;
+    background-image:url(bubbles-dktp.svg),linear-gradient(-45deg,rgb(108,14,224) -5%,rgb(240,55,166));
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.m2{
+    width: 100%;
+    height: 530px;
+    background-color:#fff;
+    padding-top: 78px;
+}
+.m3{
+padding-top: 150px;
+    width: 100%;
+    height: 360px;
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+}
+.m3 h1{
+    font-size: 45px;
+    text-align: center;
+    color: #fff;
+     font-family:  var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    font-weight: 900;
+
+}
+.m4{
+    width: 100%;
+    height: 534px;
+    background-color:#fff;
+}
+.footer{
+    width: 100%;
+    height: 440px;
+    background-color: #000;
+}
+.m1-left{
+   width: 30%;
+   height: 87%;
+   padding-left: 190px;
+   padding-top: 56px;
+   float: left;
+}
+
+.image{
+    width: 261px;
+}
+.m1-right{
+    width: 50%;
+    height: 86%;
+    float: left;
+    padding-top: 60px;
+    color: #fff;
+    font-size: 31px;
+    font-family:  var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+}
+.m5{
+    width: 100%;
+    height: 331px;
+    background: url(https://www.scdn.co/i/free/lets-play.svg) left -10px bottom -160px / 100% 1114px no-repeat, linear-gradient(546deg, rgb(108, 14, 224) 16%, rgb(240, 55, 166)) rgb(108, 14, 224);
+    background-position: left -10px bottom -160px;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-family:  var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    padding-top: 105px;
+
+}
+button{
+    width: 200px;
+    height: 49px;
+    font-size: 15px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 40px;
+    font-family:  var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    cursor: pointer;
+    
+}
+.header-right ul{
+   
+    list-style: none;
+}
+.header-right ul li{
+    float: left;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: #fff;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 23px;
+}
+.cur{
+    cursor: pointer;
+}
+.cur:hover{
+    color: #1ed760;
+}
+.m2 h2{
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+}
+.tab{
+    width: 87%;
+    height: 79%;
+    margin-left: 160px;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    text-align: center;
+}
+.footermain{
+    height: 80%;
+}
+.footermain1{
+    width: 320px;
+    height: 100%;
+    float: left;
+}
+.footermain2{
+    width: 670px;
+    height: 100%;
+    float: left;
+    color: #fff;
+}
+.footermain3{
+    width: 359px;
+    height: 100%;
+    float: left;
+}
+.imgfooter{
+    width: 140px;
+    margin-top: 70px;
+    margin-left: 110px;
+    cursor: pointer;
+}
+.footerbutton:hover{
+    color:#1ed760;
+}
+.buttonimages{
+    width: 20px;
+    
+    background-color: #fff;
+
+}
+.footerbutton{
+    width: 50px;
+    height: 50px;
+    margin-left: 27px;
+    margin-top: 74px;
+    background-color:#222326 ;
+    cursor: pointer;
+}
+#got{
+    text-align: center;
+    width: 100%;
+    height:100px ;
+    font-size: 40px;
+}
+.list{
+    width: 70%;
+height: 434px;
+margin-left: 200px;
+outline: none;
+list-style: none;
+cursor: pointer;
+}
+.optn{
+    width: 100%;
+    height: 100px;
+    font-size: 18px;
+    font-weight: 900;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+    cursor: pointer;
+    list-style: none;
+    outline: none;
+
+}
+.footertable{
+    margin-left: 140px;
+}
+.th{
+    padding-right: 70px;
+    padding-bottom: 10px;
+    padding-top: 69px;
+}
+.footermain4{
+    width: 100%;
+    height: 88px;
+    float: left;
+}
+.footermain41{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.lis{
+    color:#222326 ;
+    float: left;
+    list-style: none;
+    padding-left: 20px;
+}
+.footermain42{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+.green:hover{
+color: #1ed760;
+}
